@@ -1,7 +1,3 @@
-
--- --------------------------------------------------------
-
---
 -- Table structure for table `patientprocedures`
 --
 
