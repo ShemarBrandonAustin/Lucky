@@ -1,10 +1,3 @@
-
--- --------------------------------------------------------
-
---
--- Table structure for table `gender`
---
-
 CREATE TABLE `gender` (
   `Id` int(11) NOT NULL,
   `Name` varchar(30) NOT NULL
